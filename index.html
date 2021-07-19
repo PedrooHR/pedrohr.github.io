@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style/style.css">
+
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+</head>
+
+<body>
+
+    <div class="topnav" style="display: flex; justify-content: center">
+        <a id="home">Home</a>
+        <a id="about">About</a>
+        <a id="publications">Publications</a>
+        <a id="contact">Contact</a> |
+        <a id="lang">EN-US</a>
+        <!-- <a id="theme-change">
+            <svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+            <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+            3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+            13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"></path>
+            </svg>
+        </a> -->
+    </div>
+
+    <div class="content" align="center">
+        <zero-md id="social" src="content/social.md">
+            <template>
+            <link rel="stylesheet" href="style/style.css">
+            <style>
+              .social a {
+                padding: 5px;
+              }
+            </style>
+          </template>
+        </zero-md>
+    </div>
+
+    <div class="content">
+        <zero-md id="zero-md-content" src="content/home.md">
+            <template>
+        <link rel="stylesheet" href="style/style.css">
+        <style>
+            body {
+                font-family: 'Courier New', Courier, monospace;
+            }
+            
+            code {
+              background: yellow;
+            }
+        </style>
+        </template>
+        </zero-md>
+    </div>
+
+    <script src="js/index.js" async defer></script>
+</body>
+
+</html>
