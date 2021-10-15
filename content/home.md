@@ -4,4 +4,4 @@
 </div>
 <br>
 
-Hi, my name is *Pedro*. I'm currently pursuing my doctoral degree in **Computer Science** at *Unicamp* (Campinas - Brazil). My research is focused on Fault Tolerance for MPI (Message Passing Interface) and OpenMP.
+Hi, my name is *Pedro*. I'm currently a **Computer Science** PhD student at *Unicamp* (Campinas - Brazil). My research is focused on Fault Tolerance for MPI (Message Passing Interface) and OpenMP.

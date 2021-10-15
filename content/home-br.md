@@ -4,4 +4,4 @@
 </div>
 <br>
 
-Olá, meu nome é *Pedro Henrique*. Atualmente estou em busca do meu título de Doutor em **Ciências da Computação** na *Unicamp* (Campinas - Brasil). Minha pesquisa foca-se em Tolerância a Falhas para MPI (*Message Passing Interface*) e OpenMP.
+Olá, meu nome é *Pedro Henrique*. Atualmente sou estudando de doutorado em **Ciências da Computação** na *Unicamp* (Campinas - Brasil). Minha pesquisa foca-se em Tolerância a Falhas para MPI (*Message Passing Interface*) e OpenMP.

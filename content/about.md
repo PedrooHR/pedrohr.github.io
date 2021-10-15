@@ -1,6 +1,6 @@
 # About
 
-I'm Pedro Henrique Di Francia Rosso. I'm currently a doctoral student at Unicamp (Campinas - Brazil).
+I'm Pedro Henrique Di Francia Rosso. I'm currently a PhD student at Unicamp (Campinas - Brazil).
 
 I got my bachelor's in Computer Engineering in 2018 at UFSC (Araranguá - Brazil). During my graduation, I've developed several activities, like monitoring students of Data Structures course, programming marathons, and Scientific Initiation, where I studied wireless sensing applied to health (EMG) and finished my degree studying image recoloration for dichromats. UFSC and CREA-SC awarded me for being the best student.
 
