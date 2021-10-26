@@ -7,3 +7,6 @@ I got my bachelor's in Computer Engineering in 2018 at UFSC (Araranguá - Brazil
 In 2021, obtained my Master's degree in Computer Science at UFABC (Santo André - Brazil). My dissertation was about Fault Tolerance based on MPI, and applied to the [OmpCluster](https://ompcluster.gitlab.io) project that uses OpenMP to parallelize applications to HPC clusters.
 
 Now, I'm continuing studying Fault Tolerance, expanding my master's project.
+
+
+Curriculum: [[Portuguese](/documents/curriculum-br.bib) - [English](/documents/curriculum-en.pdf)]

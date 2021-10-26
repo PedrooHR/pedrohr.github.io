@@ -7,3 +7,5 @@ Concluí meu bacharelado em Engenharia da Computação em 2018 na UFSC (Ararangu
 Em 2021, me tornei Mestre em Ciência da Computação na UFABC (Santo André - Brasil). Minha dissertação foi sobre Tolerância a Falhas baseada em MPI, e aplicada ao projeto [OmpCluster](https://ompcluster.gitlab.io) que usa OpenMP para paralelizar aplicações em clusters HPC.
 
 Agora, continuo estudando Tolerância a Falhas, ampliando o projeto do meu mestrado.
+
+Currículo: [[Português](/documents/curriculum-br.bib) - [English](/documents/curriculum-en.pdf)]
