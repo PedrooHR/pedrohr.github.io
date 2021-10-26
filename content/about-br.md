@@ -8,4 +8,4 @@ Em 2021, me tornei Mestre em Ciência da Computação na UFABC (Santo André - B
 
 Agora, continuo estudando Tolerância a Falhas, ampliando o projeto do meu mestrado.
 
-Currículo: [[Português](/documents/curriculum-br.bib) - [English](/documents/curriculum-en.pdf)]
+Currículo: [[Português](/documents/curriculum-br.pdf) - [English](/documents/curriculum-en.pdf)]

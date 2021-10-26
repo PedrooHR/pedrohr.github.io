@@ -9,4 +9,4 @@ In 2021, obtained my Master's degree in Computer Science at UFABC (Santo André 
 Now, I'm continuing studying Fault Tolerance, expanding my master's project.
 
 
-Curriculum: [[Portuguese](/documents/curriculum-br.bib) - [English](/documents/curriculum-en.pdf)]
+Curriculum: [[Portuguese](/documents/curriculum-br.pdf) - [English](/documents/curriculum-en.pdf)]
