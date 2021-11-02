@@ -18,7 +18,7 @@ A seguir, encontram-se os links referentes aos meus perfis de pesquisador:
 ## Monografias, dissertação e teses
 
 * ### Dissertação de Mestrado (Inglês)
-Rosso, Pedro Henrique Di Francia. "OCFTL: an MPI implementation-independent fault tolerance library for task-based applications" (2021) **A ser publicado**. [[Bibtex](/documents/thesis.bib) - [Download](/documents/thesis.pdf)]
+Rosso, Pedro Henrique Di Francia. "OCFTL: an MPI implementation-independent fault tolerance library for task-based applications" (2021) **A ser publicado**. *Finalista do WSCAD-CTD 2021*. [Bibtex](/documents/thesis.bib) - [Download](/documents/thesis.pdf)]
 
 * ### Trabalho de conclusão de curso - Graduação (Português)
 Rosso, Pedro Henrique Di Francia. "Recoloração de imagens para dicromatas baseada em mapas elásticos." (2018). [[Bibtex](/documents/tcc.bib) - [Download](/documents/tcc.pdf)]
